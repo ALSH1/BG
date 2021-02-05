@@ -17,6 +17,7 @@ define('APP_TITLE', 'Tiny File Manager');
 // --- EDIT BELOW CONFIGURATION CAREFULLY ---
 
 
+
 // Auth with login/password 
 // set true/false to enable/disable it
 // Is independent from IP white- and blacklisting
